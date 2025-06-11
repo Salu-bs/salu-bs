@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salu-bs&label=Profile%20views&color=0e75b6&style=flat" alt="salu-bs" /> </p>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **NODE JS**
 
 - 🌱 I’m currently learning **React**
 
 - 🤝 I’m looking for help with **Stack overflow**
 
-- 💬 Ask me about **JavaScript,React**
+- 💬 Ask me about **JavaScript,React NODE JS**
 
 - 📫 How to reach me **salu.bids@gmail.com**
 
